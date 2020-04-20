@@ -38,7 +38,7 @@ The analysis of the county turnout show that:
     - Jefferson
     - Denver
     - Arapahoe
-- The county voter turnout results are:
+- The county voter turnout results were:
     - 10.5% of the votes came from Jefferson County with a number of 38,855 votes.
     - 82.8% of the votes came from Denver County with a number of 306,055 votes.
     - 6.7% of the votes came from Arapahoe County with a number of 24,801 votes.
